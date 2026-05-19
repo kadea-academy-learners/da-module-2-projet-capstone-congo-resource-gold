@@ -8,7 +8,7 @@ Le Groupe dispose d'une base de données SQL centralisée nommée `crg_mining_db
 
 
 
-## MLD Magasin de sport run and win
+## MLD Congo Resource Gold
 
 ![MLD Congo Resource Gold](./crg-mining-mld.png "MLD Congo Resource Gold")
 

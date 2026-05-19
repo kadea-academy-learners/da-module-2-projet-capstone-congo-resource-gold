@@ -27,6 +27,7 @@ Ce projet vous permet de valider les compétences du Module 2 :
 ## Technologies autorisées
 
 | **Domaine**	| **Détails** |
+|:-------- |:--------:|
 | **Modélisation**	| Diagramme de base de données (MCD/MLD) |
 | **Base de Données**	| SQL (PostgreSQL, MySQL ou SQLite via DBeaver) |
 | **Business Intelligence**	| Power BI (Connexion SQL, DAX de base, Visualisations interactives) |
